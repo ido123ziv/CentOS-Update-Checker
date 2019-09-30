@@ -1,0 +1,15 @@
+[
+    {
+        "Cust": "Customer_Name",
+        "Server": "Server_Name",
+        "Severity": [
+            "Critical",
+            "Important"
+        ],
+        "Tech": [
+            "Tech_List"
+        ],
+        "client": "Client_Name"
+    }
+]
+
