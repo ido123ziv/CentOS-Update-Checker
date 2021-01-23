@@ -1,5 +1,5 @@
 # CentOS Security Update Checker
-this project is the my own version of windows update for Linux systems. 
+this project is my own version of windows update for Linux systems. 
 
 ## Description
 The code checks the official site of CentOS operating system and notifies by email about the Critical and Important Security Updates for CentOS Linux.
